@@ -1,4 +1,4 @@
 # personal_website
-I'll be using data from Spotify API, Google location history, and manually constructed csv's. 
+Currently working on visualizing my location history over 2020's lockdowns using my Google location data. I'll be transforming the data and removing all personal details before using plotly to create various charts analysing my movements (or lack thereof)
 
 
