@@ -1,2 +1,4 @@
 # personal_website
-A website with charts and graphs all about me
+I'll be using data from Spotify API, Google location history, and manually constructed csv's. 
+
+
